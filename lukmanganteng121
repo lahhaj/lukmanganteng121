@@ -441,7 +441,7 @@ read -p "root@T00Ls-B4J1N64Nv6~#" bro
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.LUKMAN T4MVAN" | lolcat
 php tp.php
 fi
 
